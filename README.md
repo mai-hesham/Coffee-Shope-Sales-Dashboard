@@ -1,4 +1,5 @@
 # ☕ Coffee Shop Sales Dashboard
+![Dashboard](dashboard.png)
 
 ## 📌 Project Overview
 This project analyzes coffee shop sales data using Microsoft Excel. The dashboard provides interactive insights into sales performance across stores, products, categories, months, days, and hours.
