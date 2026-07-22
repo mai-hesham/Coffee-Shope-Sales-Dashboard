@@ -32,7 +32,10 @@ This project analyzes coffee shop sales data using Microsoft Excel. The dashboar
 - Sales peaked during the morning hours.
 - Monday recorded the highest revenue.
 
-## 📁 Files
+## 📁 Project Files
+- Coffee Shop Sales Dashboard.xlsx
+- Dashboard.png(Dashboard preview)
+
 Coffe Shope Sales Dashboard.xlsx
 Dashboard pdf
 
