@@ -34,6 +34,4 @@ This project analyzes coffee shop sales data using Microsoft Excel. The dashboar
 
 ## 📁 Project Files
 - Coffee Shop Sales Dashboard.xlsx
-- Dashboard.png(Dashboard preview) 
-- Coffee Shop Sales Dashboard.xlsx
-- Dashboard PDF
+- Dashboard.png(Dashboard preview)
